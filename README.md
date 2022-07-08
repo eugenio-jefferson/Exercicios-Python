@@ -5,4 +5,4 @@
  * [Curso de Python 3 - Mundo 2;](https://www.cursoemvideo.com/curso/python-3-mundo-2/)
  * [Curso de Python 3 - Mundo 3;](https://www.cursoemvideo.com/curso/python-3-mundo-3/)
  
- O enuncioado de cada exercício esta logo no começo deles em um comentário.
+ O enunciado de cada exercício está logo no começo deles, em um comentário.
