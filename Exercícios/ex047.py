@@ -1,0 +1,5 @@
+# CRIE UM PROGRAMA QUE MOSTRE NA TELA TODOS OS NÚMEROS PARES QUE ESTÃO NO INTERVALO ENTRE 1 E 50.
+
+print('\033[35m='*35, '\033[33mNÚMEROS PARES DE 1 À 50', '\033[35m=\033[m'*35)
+for c in range(2, 51, 2):
+    print(c, end='; ')

@@ -1,0 +1,6 @@
+#CRIE UM PROGRAMA QUE TENHA UMA TUPLA ÚNICA COM NOMES DE PRODUTOS E SEUS RESPECTIVOS PREÇOS NA SEQUÊNCIA. NO FINAL MOSTRE
+# UMA LISTAGEM DE PREÇOS ORGANIZANDO OS DADOS EM UMA FORMA TABULAR.
+
+tupla=('Maçã','1,50','Caneta','2,00','Celular','1.500,00','Caderno','140,00')
+for c in range(0,len(tupla),2):
+    print(f"{tupla[c]:_<20}R$ {tupla[c+1]:_>8}")

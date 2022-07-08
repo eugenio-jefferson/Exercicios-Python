@@ -1,0 +1,7 @@
+# ADICIONE AO MÓDULO MOEDA.PY CRIADO NOS DESAFIOS ANTERIORES, UMA FUNÇÃO CHAMADA RESUMO(), QUE MOSTRA NA TELA ALGUMAS
+# FUNÇÕES QUE JÁ TEMOS NO MÓDULO CRIADO ATÉ AQUI.
+
+import moeda
+
+p = float(input('Digite um preço: R$ '))
+moeda.resumo(p,20,12)
